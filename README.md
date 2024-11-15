@@ -1,10 +1,10 @@
 # Introduction
 
-This Github repo contains code and data for creating a PDF report that
-consists of a table of descriptive statistics and a mosaic plot, in
-order to better understand physical attack severity in school bullying.
-The original dataset is the Global School-Based Student Health Survey
-(GSHS)
+This Github repo contains code and data for automatically generating
+a PDF report that consists of a table of descriptive statistics and a 
+mosaic plot, in order to better understand physical attack severity in 
+school bullying. The original dataset is the Global School-Based Student 
+Health Survey (GSHS)
 (<https://www.kaggle.com/datasets/leomartinelli/bullying-in-schools>)
 that contains school-based survey data from Argentina in 2018 with
 56,981 student participants.
